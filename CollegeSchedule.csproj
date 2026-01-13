@@ -17,10 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="DTO\" />
     <Folder Include="Middlewares\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
